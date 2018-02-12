@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewordbound/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewordbound/bamazon/issues"
+  },
+  "homepage": "https://github.com/codewordbound/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "json-table": "^0.1.3",
+    "mysql": "^2.15.0"
+  }
+}
